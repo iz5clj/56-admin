@@ -30,7 +30,7 @@
         <div class="row align-items-center h-100">
             <div class="col-6 mx-auto">
                 <div class="jumbotron-fluid text-center">
-                    <h1 class="display-4">Welcome</h1>
+                    <h1 class="display-4">Welcome to the main site.</h1>
                     <p class="lead">This site uses a php framework: LARAVEL.</p>
                     <p class="lead">
                         <a class="btn btn-primary btn-lg" href="{{ route('admin') }}" role="button">Go to admin page</a>
