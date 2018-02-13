@@ -40,7 +40,7 @@
         </div>
     </div>
 
-    {{-- Scripts - 1. Jquery 2. Popper 3.Bootstrap --}}
+    {{-- Scripts - 1.Jquery 2.Popper 3.Bootstrap --}}
     <script src="{{ mix('/js/scripts.js') }}"></script>
 
 </body>
